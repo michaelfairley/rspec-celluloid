@@ -2,6 +2,8 @@
 
 Run your RSpec suite in parallel on top of [Celluloid](https://github.com/celluloid/celluloid).
 
+[![Build Status](https://travis-ci.org/michaelfairley/rspec-celluloid.png?branch=master)](https://travis-ci.org/michaelfairley/rspec-celluloid)
+
 ## Installation
 
 Add this line to your application's Gemfile:

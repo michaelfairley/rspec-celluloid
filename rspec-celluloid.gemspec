@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["michaelfairley@gmail.com"]
   gem.description   = %q{Run your RSpec suite in parallel on top of Celluloid}
   gem.summary       = %q{Run your RSpec suite in parallel on top of Celluloid}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/michaelfairley/rspec-celluloid"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

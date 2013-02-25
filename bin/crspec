@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'rspec/celluloid/monkey_patch'
+require 'rspec/autorun'

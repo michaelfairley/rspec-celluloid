@@ -1,4 +1,5 @@
 require 'rspec/core'
+require 'rspec/celluloid/command_line'
 
 RSpec::Core::Runner.class_eval do
   def self.run(args, err=$stderr, out=$stdout)

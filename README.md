@@ -30,6 +30,7 @@ Use `crspec` instead of `rspec` to run your test suite.
 - Figure out better ways to test this.
 - Restrict the formatters that can be used ("documentation" and others will have major issues running concurrently).
 - Set version requirements against rspec-core and celluloid.
+- Get rspec-mocks working via threadlocal
 
 ## Contributing
 

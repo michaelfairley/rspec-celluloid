@@ -27,6 +27,7 @@ Use `crspec` instead of `rspec` to run your test suite.
 - Figure out how to best size the actor pool. Defaults to #CPUs, which is probably too few for the average IO bound project.
 - Figure out better ways to test this.
 - Restrict the formatters that can be used ("documentation" and others will have major issues running concurrently).
+- Set version requirements against rspec-core and celluloid.
 
 ## Contributing
 
